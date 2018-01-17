@@ -9,7 +9,6 @@ create-react-app redux-cart
 ```
 
 进入项目，运行 npm start 启动一下。
-
 到浏览器中，localhost:3000 端口，可以看到一个带 react 图标的启动画面。
 
 
